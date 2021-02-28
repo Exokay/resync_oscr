@@ -5,9 +5,11 @@ There are multiple modes implemented for the Input (GreyScale, Upscaling of the 
 The Processed Data will then be checked with the UndermineJournal Database, which will provide WoW-Gold Prices to evaluate the Guild Contribution, the User did.  
 Tesseract has the best Chances of reading correctly when the Image is Black and the Letters are in White.
 
+![ex image](https://raw.githubusercontent.com/Exokay/resync_oscr/main/img1.PNG)
 
 
 Problems of this:
 Massive Wall of Text or too high Scaled Pictures will result in Abnormal Memory Usage.
 Example given: 10000x8000 Image will most likely rise the Memory Usage up to 20Gigabyte of Ram.
 
+![ex image](https://raw.githubusercontent.com/Exokay/resync_oscr/main/memory%20usage.png)
